@@ -24,7 +24,7 @@
 
 ### :boy: About me
 I'm Edward, costumer sucess at [Monde Sistemas](https://www.monde.com.br/), currently I work on help the clients and in system usability.
-I worked there previously as :star:development trainee about 2years, in that time I worked with: Delphi, PostgresSQL and Ruby on Rails.
+I worked there previously as :star:development trainee about 2years, in that time I worked with: <strong>Delphi, PostgresSQL and Ruby on Rails</strong>.
 
 > I :heart: programming and see it as a powerful tool that can help anyone!
  
@@ -36,7 +36,7 @@ A little while ago I started to study and became interested in web development, 
 I’m would love to collaborate on a simple web projects, you can contact me clicking <a href="https://github.com/edward-mn/edward-mn/issues/new"><b>:wind_chime:here</b></a> or send me an <a href="mailto:edward.moreira@yahoo.com"><b>📫email</b></a>
  
 ### 🤔 Help me 
-I always open to learn new thing and love the felling of <b>blow my mind🤯</br>
+I always open to learn new thing and love the felling of <b>blow my mind🤯</b>
 
 ### 💬 Ask me 
 Feel free to ask me about the techs:computer: mentioned above and share our knwoledge with others:busts_in_silhouette:!
