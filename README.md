@@ -36,15 +36,15 @@ A little while ago I started to study and became interested in web development, 
 I’m would love to collaborate on a simple web projects, you can contact me clicking <a href="https://github.com/edward-mn/edward-mn/issues/new"><b>:wind_chime:here</b></a> or send me an <a href="mailto:edward.moreira@yahoo.com"><b>📫email</b></a>
  
 ### 🤔 Help me 
-I always open to learn new thing and love the felling of <b>blow my mind🤯</b>
+I always open to learn new thing and love the felling of <b>blow my mind🤯</b>.
 
 ### 💬 Ask me 
 Feel free to ask me about the techs:computer: mentioned above and share our knwoledge with others:busts_in_silhouette:!
 
 ### 😄 Fun facts
 - I'm a X file expert :alien:, always searching for fly saucer in the sky or everything related to UFOs, because the truth is out there!
-- Nostalgic lover :eyes:
-- I do sports:running: with very often and love fishing:fishing_pole_and_fish:
+- Nostalgic lover :eyes:.
+- I do sports:running: with very often and love fishing :fishing_pole_and_fish:.
 
 ### :bar_chart: My [Github stats](https://github.com/murilothink/github-readme-stats)
 <p align='center'>
