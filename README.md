@@ -13,7 +13,7 @@
     <img alt="Followers - Edward Moreira" src="https://img.shields.io/github/followers/edward-mn?label=follow&style=social">
   </a>
    
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5519991378624&text=Ola vim através do perfil do seu Github"> 
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5519991378624&text=Hello, I came through your Github profile!"> 
     <img alt="Phone - Edward Moreira" src="https://img.shields.io/badge/Phone-Whatsapp-4AC959">
   </a>
   
@@ -45,6 +45,16 @@ Feel free to ask me about the techs:computer: mentioned above and share our knwo
 - I'm a X file expert :alien:, always searching for fly saucer in the sky or everything related to UFOs, because the truth is out there!
 - Nostalgic lover :eyes:
 - I do sports:running: with very often and love fishing:fishing_pole_and_fish:
+
+### :bar_chart: My [Github stats](https://github.com/murilothink/github-readme-stats)
+<p align='center'>
+  <a href="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula">
+    <img alt="Edward - GitHub Stats Card" display="block" align="center" src="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula"/>
+  </a> 
+  <a href="https://github.com/edward-mn/github-readme-stats">
+    <img alt="Edward - Compact Language Card Layout" display="block" align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-mn&layout=compact&show_icons=true&theme=dracula"/>
+  </a>
+</p>
 
 <!--
 **edward-mn/edward-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
