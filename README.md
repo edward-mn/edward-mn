@@ -49,7 +49,7 @@ Feel free to ask me about the techs:computer: mentioned above and share our knwo
 ### :bar_chart: My [Github stats](https://github.com/murilothink/github-readme-stats)
 <p align='center'>
   <a href="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula">
-    <img alt="Edward - GitHub Stats Card" display="block" align="center" src="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula"/>
+    <img alt="Edward - GitHub Stats Card" display="block" align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=edward-mn&show_icons=true&theme=dracula"/>
   </a> 
   <a href="https://github.com/edward-mn/github-readme-stats">
     <img alt="Edward - Compact Language Card Layout" display="block" align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edward-mn&layout=compact&show_icons=true&theme=dracula"/>
