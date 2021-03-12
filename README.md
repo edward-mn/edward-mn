@@ -1,4 +1,4 @@
-# Hello coders :man_technologist: 
+# Hello coders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35"/>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/edward-moreira-5b3056115/">
@@ -22,7 +22,7 @@
   </a>
 </p>
 
-### :boy: About me
+### :man_technologist: About me
 I'm Edward, costumer sucess at [Monde Sistemas](https://www.monde.com.br/), currently I work on help the clients and in system usability.
 I worked there previously as :star:development trainee about 2years, in that time I worked with: <strong>Delphi, PostgresSQL and Ruby on Rails</strong>.
 
