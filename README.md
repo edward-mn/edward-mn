@@ -16,7 +16,7 @@
   <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5519991378624&text=Hello, I came through your Github profile!"> 
     <img alt="Phone - Edward Moreira" src="https://img.shields.io/badge/Phone-Whatsapp-4AC959">
   </a>
-  
+    
   <a href="">
     <img alt="Views Profile - Edward Moreira" src="https://komarev.com/ghpvc/?username=edward-mn&label=Views&color=3f1a91&style=plastic">
   </a>
@@ -29,8 +29,31 @@ I worked there previously as :star:development trainee about 2years, in that tim
 > I :heart: programming and see it as a powerful tool that can help anyone!
  
 ### :books: Learning 
-A little while ago I started to study and became interested in web development, it's awesome and I intend to continue and in the near future become a Full Stack Developer
- - HTML5, CSS3, JavaScritp, Node.js, React.js, ReactNative.js
+I've studied web development since 2020, my turning point was to see that web aplication it's essencials for everyone.
+Sometimes I challenge my self in back end, because in the near future want to be a Full Stack Developer
+
+<!--
+### :nerd_face: Skills
+<p align="center">
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+HTML5, CSS3, JavaScritp, Node.js, React.js, ReactNative.js
+
+</p>
+-->
  
 ### :earth_africa: Opensource
 I’m would love to collaborate on a simple web projects, you can contact me clicking <a href="https://github.com/edward-mn/edward-mn/issues/new"><b>:wind_chime:here</b></a> or send me an <a href="mailto:edward.moreira@yahoo.com"><b>📫email</b></a>
