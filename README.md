@@ -29,7 +29,7 @@ I worked there previously as :star:development trainee about 2years, in that tim
 > I :heart: programming and see it as a powerful tool that can help anyone!
  
 ### :books: Learning 
-I've studied web development since 2020, my turning point was to see that web aplication it's essencials for everyone.
+I've been studying web development since 2020, my turning point was to see that web aplication it's essencials for everyone.
 Sometimes I challenge my self in back end, because in the near future want to be a Full Stack Developer
 
 ### :nerd_face: Skills
