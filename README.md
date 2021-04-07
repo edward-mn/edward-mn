@@ -23,10 +23,11 @@
 </p>
 
 ### :man_technologist: About me
-I'm Edward, costumer sucess at [Monde Sistemas](https://www.monde.com.br/), currently I work on help the clients and in system usability.
-I worked there previously as :star:development trainee about 2years, in that time I worked with: <strong>Delphi, PostgresSQL and Ruby on Rails</strong>.
+I'm Edward, Costumer Success Analyst at [Sensedia](https://br.sensedia.com/), currently I work on onboarding new clients and in plataform API usability.
 
-> I :heart: programming and see it as a powerful tool that can help anyone!
+I have exprience working with: <strong>Delphi, PostgresSQL and Ruby on Rails</strong> as :star:development trainee and Costumer Success as well at [Monde Sistemas](https://monde.com.br/).
+
+> I realy :heart: programming and see it as a powerful tool that can help anyone!
  
 ### :books: Learning 
 I've been studying web development since 2020, my turning point was to see that web aplication it's essencials for everyone.
