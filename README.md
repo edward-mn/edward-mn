@@ -46,7 +46,7 @@ Feel free to ask me about the techs:computer: mentioned above and share our knwo
 - I do sports:running: with very often and love fishing :fishing_pole_and_fish:.
 
 <details>
-  <summary> <b> Click right here to know about my technical knowledge :man_technologist: </b> </summary>
+  <summary> <b> ❗ Click right here to know about my technical knowledge :man_technologist: </b> </summary>
   <br>
   
   ### :nerd_face: Skills
