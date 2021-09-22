@@ -101,6 +101,8 @@ Feel free to ask me about the techs:computer: mentioned above and share our knwo
   
 </details>
 
+![Snake animation](https://github.com/edward-mn/edward-mn/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **edward-mn/edward-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
