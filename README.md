@@ -25,33 +25,9 @@
 ### 👦🏽 About me
 I'm Edward, graduated in Computer Science and Costumer Success Analyst at [Sensedia](https://br.sensedia.com/), currently I work on onboarding new clients and in API platform usability.
 
-> I realy :heart: programming and see it as a powerful tool that can help anyone, building a world more digital and connected! 🔌
+> I realy :heart: programming and see it as a powerful tool that can help anyone, building a world more digital and connected! 🔌🌎
  
-### :books: Learning 
-I've been studying web development for a while, my turning point was to see that web aplication could be used by everyone!
-Sometimes I challenge my self in back end, because in the near future want to be a Full Stack Developer.
-
-### :earth_africa: Opensource
-I’m would love to collaborate on a simple web projects, you can contact me clicking <a href="https://github.com/edward-mn/edward-mn/issues/new"><b>:wind_chime:here</b></a> or send me an <a href="mailto:edward.moreira@yahoo.com"><b>📫email</b></a>
- 
-### 🤔 Help me 
-I always open to learn new thing and love the felling of <b>blow my mind🤯</b>.
-
-### 💬 Ask me 
-Feel free to ask me about the techs:computer: mentioned above and share our knwoledge with others:busts_in_silhouette:!
-
-### 😄 Fun facts
-- I'm a X file expert :alien:, always searching for fly saucer in the sky or everything related to UFOs, because the truth is out there!
-- Nostalgic lover :eyes:.
-- I do sports:running: with very often and love fishing :fishing_pole_and_fish:.
-
-#
-
-<details>
-  <summary> <b> ❗ Click right here to know about my technical knowledge :man_technologist: </b> </summary>
-  <br>
-  
-  ### :nerd_face: Skills
+### :nerd_face: Skills
   <p align="center">  
       <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -99,11 +75,42 @@ Feel free to ask me about the techs:computer: mentioned above and share our knwo
     </a>
   </p>
   
+<details>
+  <summary> <b> ❗ Click right here to know more about me 🙋‍♂️</b> </summary>
+  <br>
+  
+  ### :books: Learning 
+  I'm studying backend development currently with ☕, however I've been studying web development for a while.
+  
+  ### :earth_africa: Opensource
+  I’m would love to collaborate on a simple web projects, you can contact me clicking 
+    <a href="https://github.com/edward-mn/edward-mn/issues/new">
+      <b>:wind_chime:here</b>
+    </a> or send me an 
+    <a href="mailto:edward.moreira@yahoo.com">
+      <b>📫email</b>
+    </a>
+
+  ### 🤔 Help me 
+  I always open to learn new thing and love the felling of <b>blow my mind🤯</b>.
+
+  ### 💬 Ask me 
+  Feel free to ask me about the techs:computer: mentioned above and share our knwoledge with others:busts_in_silhouette:!
+
+  ### 😄 Fun facts
+  - I'm a X file expert :alien:, always searching for fly saucer in the sky or everything related to UFOs, because the truth is out there!
+  - Nostalgic lover :eyes:.
+  - I do sports:running: with very often and love fishing :fishing_pole_and_fish:.
+
 </details>
 
 ![Snake animation](https://github.com/edward-mn/edward-mn/blob/output/github-contribution-grid-snake.svg)
 
 <!--
+My turning point was to understand how it always connected
+that web aplication could be used by everyone!
+Sometimes I challenge my self in back end, because in the near future want to be a Full Stack Developer.
+
 **edward-mn/edward-mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
