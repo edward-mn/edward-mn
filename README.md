@@ -4,25 +4,25 @@
   <a href="https://www.linkedin.com/in/edward-moreira-5b3056115/">
     <img alt="Linkedin - Edward Moreira" src="https://img.shields.io/badge/-Edward--Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-moreira-5b3056115/">
   </a> 
-  
+
   <a href="mailto:edward.moreira@yahoo.com">
     <img alt="Email - Edward Moreira" src="https://img.shields.io/badge/-edward.moreira@yahoo.com-3f1a91?style=flat-square&logo=Gmail&logoColor=white&link=mailto:edward.moreira@yahoo.com">
   </a>
-  
+
+  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5519991378624&text=Hello, I came through your Github profile!"> 
+    <img alt="Phone - Edward Moreira" src="https://img.shields.io/badge/📲-Whatsapp-4AC959">
+  </a>  
+    
   <a href="https://github.com/edward-mn">
     <img alt="Followers - Edward Moreira" src="https://img.shields.io/github/followers/edward-mn?label=follow&style=social">
   </a>
-   
-  <a href="https://api.whatsapp.com/send?1=pt_BR&phone=5519991378624&text=Hello, I came through your Github profile!"> 
-    <img alt="Phone - Edward Moreira" src="https://img.shields.io/badge/Phone-Whatsapp-4AC959">
-  </a>
-    
-  <a href="">
+  
+  <a href="https://github.com/edward-mn">
     <img alt="Views Profile - Edward Moreira" src="https://komarev.com/ghpvc/?username=edward-mn&label=Views&color=3f1a91&style=plastic">
   </a>
 </p>
 
-### 👦🏽 About me
+### 👨 About me 
 I'm Edward, graduated in Computer Science and Costumer Success Analyst at [Sensedia](https://br.sensedia.com/), currently I work on onboarding new clients and in API platform usability.
 
 > I realy :heart: programming and see it as a powerful tool that can help anyone, building a world more digital and connected! 🔌🌎
