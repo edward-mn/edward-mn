@@ -25,7 +25,7 @@
 ### 👨 About me 
 I'm Edward, graduated in Computer Science and Costumer Success Analyst at [Sensedia](https://br.sensedia.com/), currently I work on onboarding new clients and in API platform usability.
 
-> I realy :heart: programming and see it as a powerful tool that can help anyone, building a world more digital and connected! 🔌🌎
+> I really :heart: programming and see it as a powerful tool that can help anyone, building a world more digital and connected! 🔌🌎
  
 ### :nerd_face: Skills
   <p align="center">  
