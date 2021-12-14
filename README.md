@@ -1,8 +1,8 @@
 # Hello coders <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="35"/>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/edward-moreira-5b3056115/">
-    <img alt="Linkedin - Edward Moreira" src="https://img.shields.io/badge/-Edward--Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-moreira-5b3056115/">
+  <a href="https://www.linkedin.com/in/edward-mn">
+    <img alt="Linkedin - Edward Moreira" src="https://img.shields.io/badge/-Edward--Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-mn">
   </a> 
 
   <a href="mailto:edward.moreira@yahoo.com">
