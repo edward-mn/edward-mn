@@ -23,9 +23,10 @@
 </p>
 
 ### 👨 About me 
-I'm Edward, graduated in Computer Science and Costumer Success Analyst at [Sensedia](https://br.sensedia.com/), currently I work on onboarding new clients and in API platform usability.
 
-> I really :heart: programming and see it as a powerful tool that can help anyone, building a world more digital and connected! 🔌🌎
+I'm Edward, Sofwtare Developer👨🏼‍💻 at [Sensedia](https://br.sensedia.com/), currently I work on [Open Solutions][SensediaOPB] & all the ignition process as well.
+
+> I really :heart: programming and see it as a powerful tool that can help everyone, building a world more digital and connected! 🔌🌎
  
 ### :nerd_face: Skills
   <p align="center">  
@@ -80,7 +81,7 @@ I'm Edward, graduated in Computer Science and Costumer Success Analyst at [Sense
   <br>
   
   ### :books: Learning 
-  I'm studying backend development currently with ☕, however I've been studying web development for a while.
+  Currently I'm studying ☕ for backend development, however I've been studying web development for a while.
   
   ### :earth_africa: Opensource
   I’m would love to collaborate on a simple web projects, you can contact me clicking 
@@ -104,7 +105,10 @@ I'm Edward, graduated in Computer Science and Costumer Success Analyst at [Sense
 
 </details>
 
+[SensediaOPB]: https://content.sensedia.com/open-banking-api-platform?utm_campaign=%5BPT%5D+Open+banking&utm_source=adwords&utm_term=open%20banking&utm_medium=ppc&hsa_net=adwords&hsa_mt=e&hsa_ver=3&hsa_kw=open%20banking&hsa_ad=588980528314&hsa_src=g&hsa_grp=133859113908&hsa_cam=12194008747&hsa_tgt=kwd-303567718769&hsa_acc=6429572982&gclid=Cj0KCQiAm5ycBhCXARIsAPldzoVJxzXOn9GrZYkUiTrXIPrLtKCJh_DUaeTVXAM7GAI0UQvK21jC1XoaAkyCEALw_wcB
+
 ![Snake animation](https://github.com/edward-mn/edward-mn/blob/output/github-contribution-grid-snake.svg)
+
 
 <!--
 My turning point was to understand how it always connected
