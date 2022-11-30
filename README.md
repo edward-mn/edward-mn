@@ -24,7 +24,7 @@
 
 ### 👨 About me 
 
-I'm Edward, Sofwtare Developer👨🏼‍💻 at [Sensedia](https://br.sensedia.com/), currently I work on [Open Solutions][SensediaOPB] & all the ignition process as well.
+I'm Edward, Software Developer👨🏼‍💻 at [Sensedia](https://br.sensedia.com/), currently I work on [Open Solutions][SensediaOPB] & all the ignition process as well.
 
 > I really :heart: programming and see it as a powerful tool that can help everyone, building a world more digital and connected! 🔌🌎
  
